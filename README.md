@@ -1,4 +1,6 @@
-Collection of Birds' vocalizations.
+Project: Collection of Birds' vocalizations.
+
+(Learned how to embed an audio file in a react component)
 
 Tech Stack: React + CSS
 
